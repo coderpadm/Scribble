@@ -1,0 +1,9 @@
+C:\Users\v-pasiva\github\Scrib\Scrib\bin\Debug\Scrib.exe.config
+C:\Users\v-pasiva\github\Scribble\Scrib\bin\Debug\Scrib.exe.config
+C:\Users\v-pasiva\github\Scribble\Scrib\bin\Debug\Scrib.exe
+C:\Users\v-pasiva\github\Scribble\Scrib\bin\Debug\Scrib.pdb
+C:\Users\v-pasiva\github\Scribble\Scrib\obj\Debug\Scrib.Form1.resources
+C:\Users\v-pasiva\github\Scribble\Scrib\obj\Debug\Scrib.Properties.Resources.resources
+C:\Users\v-pasiva\github\Scribble\Scrib\obj\Debug\Scrib.csproj.GenerateResource.Cache
+C:\Users\v-pasiva\github\Scribble\Scrib\obj\Debug\Scrib.exe
+C:\Users\v-pasiva\github\Scribble\Scrib\obj\Debug\Scrib.pdb
